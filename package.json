@@ -1,0 +1,16 @@
+{
+  "name": "apitesting",
+  "version": "1.0.0",
+  "description": "Testing API using SuperTest,Mocha & Chai",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Muhammad Hamza Murtaza",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "supertest": "^4.0.2"
+  }
+}
